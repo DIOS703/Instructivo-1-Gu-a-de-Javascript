@@ -1,0 +1,24 @@
+body{
+    margin-top: 100px;
+    display: flex;
+	justify-content: center;
+    align-self: center;
+    align-content: center;
+}
+.container{
+    width: auto;
+}
+.form-group{
+    margin-bottom: 10px;
+}
+.boton, p, h1{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+.boton{
+    padding: 10px;
+}
+p{
+    margin-top: 10px !important;
+}
